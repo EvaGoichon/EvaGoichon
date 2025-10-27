@@ -75,7 +75,7 @@ Supervisors: G. Caron, P. Vasseur, F. Kanehiro
 | Name | Type | Description | Access |
 |------|------|--------------|--------|
 | **[libPeR](https://github.com/PerceptionRobotique/libPeR_base)** | Repository | Linear conversions between nonlinear camera models | Public |
-| **photo_contest** | Repository | *Hidden Beauty of Science* (Embassy of France, Japan) | Public |
+| **[photo_contest](https://concoursyugen.jp.ambafrance.org/edition-2024/#!gallery/13-nv/file/300/Serendipite)** | Repository | *Hidden Beauty of Science* (Embassy of France, Japan) | Public |
 
 📫 **Contact**  
 [eva.goichon@outlook.fr](mailto:eva.goichon@outlook.fr) · [LinkedIn](https://www.linkedin.com/in/evagoichon)
